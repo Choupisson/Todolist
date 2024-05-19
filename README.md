@@ -2,8 +2,6 @@
 
 ## README - Get Started
 
-Ce guide vous aidera à configurer et à lancer votre projet de programmation web.
-
 ### Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé les logiciels suivants :
